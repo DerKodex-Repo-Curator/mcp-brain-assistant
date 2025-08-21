@@ -1,0 +1,11 @@
+# Streamlit UI
+streamlit>=1.31.0
+mcp-agent>=0.1.0
+anthropic>=0.24.0
+
+# Terminal UI (optional but recommended)
+rich>=13.7.0
+
+# Common dependencies
+python-dotenv>=1.0.0
+asyncio>=3.4.3
